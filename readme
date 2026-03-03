@@ -1,4 +1,3 @@
-```markdown
 # 🩺 Natalis – AI-Powered Prenatal Diagnostic Ecosystem
 
 Natalis is a **mission-critical medical platform** designed to democratize prenatal ultrasound screening. By integrating a **Flutter mobile application**, a **Spring Boot 4.0 service layer**, and a **PyTorch-based AI engine**, Natalis automates fetal biometry—providing instant clinical insights such as **Head Circumference (HC)** and **Gestational Age (GA)**, even in low-resource environments.
