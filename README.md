@@ -8,7 +8,7 @@ Natalis is a **mission-critical medical platform** designed to democratize prena
 
 <p align="center">
 
-  <img src="path/to/your/image.png" alt="Natalis System Architecture" width="800">
+  <img src="SystemArch.png" alt="Natalis System Architecture" width="800">
 
 </p>
 
