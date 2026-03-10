@@ -6,6 +6,12 @@ Natalis is a **mission-critical medical platform** designed to democratize prena
 
 ## 🏛️ System Architecture
 
+<p align="center">
+
+  <img src="path/to/your/image.png" alt="Natalis System Architecture" width="800">
+
+</p>
+
 Natalis follows a **three-tier architecture** to ensure scalability, security, and clinical-grade accuracy.
 
 ---
